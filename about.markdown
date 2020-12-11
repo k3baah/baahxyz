@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello, I'm Kofi. I'm 22 and recently graduated from an MSc in Data Analytics at Queen Mary University of London. [Email me!](mailto:kofibaah87@gmail.com)
 
-# Reading
+#Books
 
 *These are all the books I have open - I rarely read a book from start to finish in one go.*
 
@@ -25,11 +25,8 @@ Hello, I'm Kofi. I'm 22 and recently graduated from an MSc in Data Analytics at 
 
 # Learning
 
-- Human biomechanics
-- e-Commerce analytics
-- Data Modelling (Coursera Course)
-- Nutrition
 - Writing
+- Programming (Python)
 
 # Tech
 
@@ -40,7 +37,7 @@ Hello, I'm Kofi. I'm 22 and recently graduated from an MSc in Data Analytics at 
 
 # Games
 
-- I played Tetris sprint a lot as a child (RIP Tetris Friends) and I'm still alright at it. My lowest time is something like 02:01.
+- I played Tetris sprint a lot as a child (RIP Tetris Friends) and I'm still pretty good at it. My lowest time is something like 02:01.
 - I learned to solve a Rubik's cube in August 2020. My fastest solve is 01:38.39.
 - I haven't played Call of Duty in a few months, but I'm on 29 Warzone wins.
 - My highest typing speed on [10fastfingers.com](http://10fastfingers.com) is 109wpm.

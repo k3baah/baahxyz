@@ -50,11 +50,11 @@ Most people will have a negative reaction to something being marked up 100% with
 
 ## Is it right?
 
-Do I have a moral stance on this? Well, I'm a part of the group mentioned in [this article](https://metro.co.uk/2020/11/24/uk-scalper-group-has-more-ps5-consoles-to-sell-than-any-retailer-13645258/) [2], and I resold a few, so I clearly don't think it's bad, although I see why someone would.
+Do I have a moral stance on this? Well, I'm a part of the group mentioned in [this article](https://metro.co.uk/2020/11/24/uk-scalper-group-has-more-ps5-consoles-to-sell-than-any-retailer-13645258/) [2], and I resold a few, so I clearly don't think it's wrong, although I see why someone would.
 
-There's a distinction I didn't make previously - are resellers creating *artificial* scarcity by buying multiples? Or are they exploiting scarcity that already exists? It's likely a mixture of both, but the former makes me a little uncomfortable.
+There's a distinction I didn't make previously - are resellers creating *artificial* scarcity by buying multiples? Or are they exploiting scarcity that already exists? It's likely a mixture of both, but I would agree that the former is reprehensible.
 
-Even if you do think it's morally wrong, it doesn't matter if you don't buy one, because that just means more for the resellers[3]. In fact, the most ethical thing to do would be to get as many as you can and sell them for retail. The more people trying, the harder it is for resellers. But if you have the option, you're faced with the choice of 'should I double my money, or not?' and the answer to that seems obvious to me as long as nobody gets hurt. In fact, by charging the highest price, you're selling them to people that want them *most* [4].
+Even if you do think it's morally wrong, it doesn't matter if you don't buy one, because that just means more for the resellers [3]. In fact, the most ethical thing to do would be to get as many as you can and sell them for retail. The more people trying, the harder it is for resellers. But if you have the option, you're faced with the choice of 'should I double my money, or not?' and the answer to that seems obvious to me as long as nobody gets hurt. In fact, by charging the highest price, you're selling them to people that want them *most* [4].
 
 ---
 
